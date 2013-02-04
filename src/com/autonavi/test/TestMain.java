@@ -10,6 +10,8 @@ public class TestMain {
 		System.out.println("本地修改");
 		// 服务器远端修改
 		System.out.println("服务器远端修改！");
+		// 改成UTF-8后就没有乱码问题了，哈哈
+		System.out.println("改成UTF-8编码后就没有乱码问题了！");
 		
 	}
 
