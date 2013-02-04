@@ -13,6 +13,9 @@ public class TestMain {
 		// 改成UTF-8后就没有乱码问题了，哈哈
 		System.out.println("改成UTF-8编码后就没有乱码问题了！");
 		
+		// 成功了
+		System.out.println("成功了！");
+		
 	}
 
 }
