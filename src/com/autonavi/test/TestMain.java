@@ -3,9 +3,11 @@ package com.autonavi.test;
 public class TestMain {
 	public static void main(String [] args) {
 		System.out.println("Hello World!");
-		// æœ‰ä¹±ç é—®é¢˜
+		// ÂÒÂëÎÊÌâ
 		System.out.println("å›å®¶è¿‡å¹´");
 		System.out.println("è¿œç¨‹ä¿®æ”¹åŒæ­¥åˆ°æœ¬åœ°ï¼");
+		// ÔÙ´ÎĞŞ¸Ä
+		System.out.println("±¾µØĞŞ¸Ä£¡");
 		
 	}
 
