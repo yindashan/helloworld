@@ -16,6 +16,8 @@ public class TestMain {
 		// 成功了
 		System.out.println("成功了！");
 		
+		//嘿嘿，新年第一天！
+		
 	}
 
 }
